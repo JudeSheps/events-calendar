@@ -10,3 +10,79 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  background-color: #ccc;
+}
+
+section {
+  background-color: #fff;
+}
+
+table {
+  border: solid 1px;
+  border-color: #ccc;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+
+tr td {
+  height: 200px;
+  font-weight: bold;
+  border-bottom: solid 1px;
+  border-right: solid 1px;
+  border-color: #ccc;
+}
+
+th {
+  font-size: 1rem;
+  border-bottom: solid 2px;
+  border-right: solid 1px;
+  border-color: #ccc;
+}
+
+td {
+  font-size: 1rem;
+}
+
+span {
+  display: block;
+  text-align: right;
+}
+
+p {
+  margin: .50rem 0 0;
+  font-size: .9rem;
+  font-weight: normal;
+  text-align: left;
+  border: solid 1px;
+  border-radius: 8px;
+  padding: .25rem;
+}
+
+.grey {
+  color: #666;
+  border-color: #333;
+  background-color: #f2f2f2;
+}
+
+.red {
+  color: #b92828;
+  border-color: #991919;
+  background-color: #f2bcbc;
+}
+
+.green {
+  color: #51603f;
+  border-color: #6b7e54;
+  background-color: #d1e0bf;
+}
+
+.blue {
+  color: #38448e;
+  border-color: #1d38da;
+  background-color: #d2d6f0;
+}
