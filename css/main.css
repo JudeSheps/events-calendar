@@ -24,43 +24,26 @@ table {
   border-color: #ccc;
 }
 
-h1 {
-  font-weight: normal;
-  font-size: 1.2rem;
-}
-
 tr td {
   height: 200px;
-  font-weight: bold;
   border-bottom: solid 1px;
   border-right: solid 1px;
   border-color: #ccc;
 }
 
 th {
-  font-size: 1rem;
   border-bottom: solid 2px;
   border-right: solid 1px;
   border-color: #ccc;
 }
 
-td {
-  font-size: 1rem;
-}
-
 span {
   display: block;
-  text-align: right;
 }
 
 p {
-  margin: .50rem 0 0;
-  font-size: .9rem;
-  font-weight: normal;
-  text-align: left;
   border: solid 1px;
   border-radius: 8px;
-  padding: .25rem;
 }
 
 .grey {
